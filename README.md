@@ -1,2 +1,3 @@
 # Calculator_App
-The Calculator App is a user-friendly and efficient tool built using HTML, CSS, and JavaScript. 
+
+The Calculator App is a user-friendly and efficient tool built using HTML, CSS, and JavaScript. It provides a convenient way to perform basic mathematical operations such as addition, subtraction, multiplication, and division. The app features a clean and intuitive interface, allowing users to input numbers and operators with ease. Upon entering the desired calculations, the app instantly generates accurate results, providing an instant solution to mathematical problems. With its responsive design, the Calculator App is accessible on various devices, including desktops, laptops, tablets, and smartphones. It simplifies everyday calculations and serves as a handy tool for students, professionals, and anyone in need of quick and reliable arithmetic computations.
